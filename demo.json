@@ -1,0 +1,22 @@
+[
+    {
+        "_id": "6582e531456909c06155b0b4",
+        "name": "Lava Burger",
+        "category": "Fast Food",
+        "price": 499,
+        "image": "image_1703077169072_lavaburger.png",
+        "quantity": 40,
+        "created": "2023-12-20T12:59:29.086Z",
+        "__v": 0
+    },
+    {
+        "_id": "6582f39774d9b42e4401034c",
+        "name": "Crispy zinger burger",
+        "category": "Fast Food",
+        "price": 300,
+        "image": "image_1703080855693_crispy zinger burger.jpeg",
+        "quantity": 100,
+        "created": "2023-12-20T14:00:55.702Z",
+        "__v": 0
+    }
+]
